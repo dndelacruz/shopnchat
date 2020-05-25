@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765742995122",
+    "firebase_url": "https://shopnchat-cd662.firebaseio.com",
+    "project_id": "shopnchat-cd662",
+    "storage_bucket": "shopnchat-cd662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765742995122:android:bcdec43b4a589a28d21bab",
+        "android_client_info": {
+          "package_name": "com.example.shopchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765742995122-b18nupd2lsla7tbmd7ighihleapkdvic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO4kdtEvGLkX6Wv83nwuzjb5aAReauQWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765742995122-b18nupd2lsla7tbmd7ighihleapkdvic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
